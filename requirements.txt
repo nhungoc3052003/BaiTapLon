@@ -1,0 +1,5 @@
+selenium
+easyocr
+pillow
+beautifulsoup4
+schedule
